@@ -1,0 +1,26 @@
+Variable1,Variable2,Correlation
+Electricity,Electricity,1.0
+Sanitation,Electricity,0.3231001533664635
+Clean Fuel,Electricity,0.39472377614302595
+Stunting,Electricity,-0.42960905619285567
+Wasting,Electricity,-0.1204633378898901
+Electricity,Sanitation,0.3231001533664635
+Sanitation,Sanitation,1.0
+Clean Fuel,Sanitation,0.4605355882932338
+Stunting,Sanitation,-0.5066678783420635
+Wasting,Sanitation,-0.3391257120375226
+Electricity,Clean Fuel,0.39472377614302595
+Sanitation,Clean Fuel,0.4605355882932338
+Clean Fuel,Clean Fuel,1.0
+Stunting,Clean Fuel,-0.4164246518784034
+Wasting,Clean Fuel,-0.12203051139303397
+Electricity,Stunting,-0.42960905619285567
+Sanitation,Stunting,-0.5066678783420635
+Clean Fuel,Stunting,-0.4164246518784034
+Stunting,Stunting,1.0
+Wasting,Stunting,0.24285813626890027
+Electricity,Wasting,-0.1204633378898901
+Sanitation,Wasting,-0.3391257120375226
+Clean Fuel,Wasting,-0.12203051139303397
+Stunting,Wasting,0.24285813626890027
+Wasting,Wasting,1.0
